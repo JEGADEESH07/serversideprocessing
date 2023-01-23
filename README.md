@@ -110,3 +110,5 @@ Publish the website using the domain name
 
 ## Result:
 
+A website to perform mathematical calculations in server side is created.
+
