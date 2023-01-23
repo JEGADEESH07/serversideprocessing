@@ -104,9 +104,10 @@ Publish the website using the domain name
 ```
 
 ## OUTPUT:
+![output](pic1.jpeg)
 
 ### Home Page:
-
+![output](pic1.jpeg)
 
 ## Result:
 
